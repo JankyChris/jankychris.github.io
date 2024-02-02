@@ -37,7 +37,8 @@ The properties of the inner product immediately result in the first two conditio
 
 
 
-### Cauchy-Schwarz Inequality
+**Cauchy-Schwarz Inequality**
+
 If $$(X, \langle \cdot, \cdot \rangle)$$ is an inner product space, then
 
 $$
