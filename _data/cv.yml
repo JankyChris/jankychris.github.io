@@ -14,18 +14,18 @@
     - title: M. Sc. Mathematics
       institution: Freie Universität Berlin
       year: 2024
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: B. Sc. Mathematics
       institution: Freie Universität Berlin
       year: 2020
-#      description:
-#        - lorem ipsum
+      description:
+        - lorem ipsum
 
 - title: Experience
   type: time_table
@@ -33,31 +33,31 @@
     - title: Woking Student
       institution: WeltWeitBau GmbH
       year: 2019 - present
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
-#- title: Open Source Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items:
-#        - Nobel Prize in Physics
-#        - Matteucci Medal
-#    - year: 2029
-#      items:
-#        - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
