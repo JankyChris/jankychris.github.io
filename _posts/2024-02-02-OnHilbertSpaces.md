@@ -16,9 +16,9 @@ A real vector space $$X$$ is an **inner product space** if there exists a mappin
 
 In this case we call $$\langle \cdot, \cdot \rangle$$ an **inner product**.
 
-A real vector space $$X$$ is a **normed space** if there exists a mapping $$\|\| \cdot \Vert : X \to \mathbb{R}$$ such that
+A real vector space $$X$$ is a **normed space** if there exists a mapping $$\Vert \cdot \Vert : X \to \mathbb{R}$$ such that
 
-- $$\Vert ax \Vert = |a| \; \Vert x \Vert$$ for all $$x \in X$$ and $$a \in \mathbb{R}$$
+- $$\Vert ax \Vert = \| a \| \; \Vert x \Vert$$ for all $$x \in X$$ and $$a \in \mathbb{R}$$
 - $$\Vert x \Vert \geq 0$$ for all $$x \in X$$ (one has equality if and only if $$x = 0$$)
 - *Triangle inequality:* $$\Vert x + y \Vert \leq \Vert x \Vert + \Vert y \Vert$$ for all $$x, y \in X$$
 
