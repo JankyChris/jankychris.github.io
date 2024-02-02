@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "WeltWeitBau GmbH",
+      "location": "Berlin, Germany",
       "position": "Working Student - Quality Assurance",
       "url": "https://wwbau.de",
       "startDate": "11-2019",
@@ -34,6 +35,7 @@
     },
     {
       "name": "3Bots 3d Engineering GmbH",
+      "location": "Berlin, Germany",
       "position": "Working Student - Production and Software Development",
       "url": "https://www.3-bots.de/",
       "startDate": "01-2019",
@@ -43,6 +45,7 @@
     },
     {
       "name": "Inopha GmbH",
+      "location": "Ludwigsfelde, Germany",
       "position": "Working Student - Market Analysis",
       "url": "https://inopha.de/",
       "startDate": "12-2016",
@@ -73,6 +76,17 @@
       "endDate": "2020",
       "score": "",
       "courses": ["Analysis", "Linear Algebra", "Stochastics", "Computer Science", "Mathematics of Machine Learning"]
+    },
+    {
+      "institution": "Anoka High School",
+      "location": "Anoka, MN",
+      "url": "",
+      "area": "",
+      "studyType": "Study Abroad",
+      "startDate": "2013",
+      "endDate": "2014",
+      "score": "",
+      "courses": []
     }
   ],
   "languages": [
