@@ -7,3 +7,5 @@ tags: test
 categories: sample-posts
 related_posts: false
 ---
+
+This is just a test.

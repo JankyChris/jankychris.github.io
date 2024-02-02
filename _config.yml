@@ -121,8 +121,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: infinite iterations # blog_name will be displayed in your blog page
-blog_description: Math, Machine Learning, and Beyond
+blog_name: Infinite Iterations # blog_name will be displayed in your blog page
+blog_description: math, machine learning, and beyond
 permalink: /blog/:year/:title/
 
 # Pagination
