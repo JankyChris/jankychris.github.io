@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Christoph
 middle_name: M.
 last_name: Jankowsky
-email: you@example.com
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website!
 footer_text: >
@@ -70,7 +70,7 @@ github_username: JankyChris
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/christoph-jankowsky/
+linkedin_username: christoph-jankowsky
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
