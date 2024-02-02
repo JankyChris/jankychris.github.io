@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a passionate graduate student in Mathematics at Freie Universität Berlin, where I specialize in numerical analysis of differential equations with stochastic data. As I prepare for my master's thesis, I'm excited to contribute to the field by exploring innovative approaches to complex mathematical challenges.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mathematics has always been a beacon for me, drawing me in with its universal application across various fields. My studies have not only provided me with a deep understanding of mathematical concepts but also a clear vision of their potential impact on future technologies, particularly in AI research.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not immersed in equations, I enjoy expressing my creativity through photography and programming. I'm also a seasoned player of American football and a guitarist, with over ten years of experience in each. These hobbies provide a balance to my academic pursuits, allowing me to blend analytical rigor with artistic expression.
+
+As I move forward in my career, I am eager to make a mark in the world, whether in the academic sphere or in industry.
