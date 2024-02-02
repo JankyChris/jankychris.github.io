@@ -16,12 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a dedicated graduate student pursuing a Master's degree in Mathematics at the prestigious Freie Universität Berlin. Specializing in numerical analysis, I am particularly intrigued by the challenges posed by (partial) differential equations with stochastic data.
+Hello! I'm a passionate graduate student in Mathematics at Freie Universität Berlin, where I specialize in numerical analysis of differential equations with stochastic data. As I prepare for my master's thesis, I'm excited to contribute to the field by exploring innovative approaches to complex mathematical challenges.
 
-While my current focus is on successfully completing my exams, I am eagerly looking forward to delving into my master's thesis, where I aspire to explore new depths in my specialization. Mathematics has always captivated me, not just for its intrinsic beauty, but also for its profound applicability across diverse disciplines. This universal language of logic and patterns is what inspired me to embark on a career in this fascinating field.
+Mathematics has always been a beacon for me, drawing me in with its universal application across various fields. My studies have not only provided me with a deep understanding of mathematical concepts but also a clear vision of their potential impact on future technologies, particularly in AI research.
 
-Post-graduation, I am contemplating a foray into doctoral research or leveraging my mathematical expertise in the industry. My ultimate goal is to contribute to the advancement of AI research, an ambition that marries my love for mathematics with cutting-edge technological innovation.
+When I'm not immersed in equations, I enjoy expressing my creativity through photography and programming. I'm also a seasoned player of American football and a guitarist, with over ten years of experience in each. These hobbies provide a balance to my academic pursuits, allowing me to blend analytical rigor with artistic expression.
 
-Outside of the academic realm, I am a person of diverse interests. I am an avid photographer, a skill that allows me to capture the world through a creative lens. Programming is another passion of mine, offering a modern outlet for problem-solving and logical thinking. For over a decade, I've enjoyed the dynamic and strategic nature of American football, and I've also dedicated myself to the art of playing the guitar.
-
-I am excited about the opportunities that lie ahead and am committed to making a meaningful impact through my work. Whether it be in academia or the industry, I aim to push the boundaries of knowledge and technology.
+As I move forward in my career, I am eager to make a mark in the world, whether in the academic sphere or in industry.
