@@ -16,15 +16,15 @@ A real vector space $$X$$ is an **inner product space** if there exists a mappin
 In this case we call $$\langle \cdot, \cdot \rangle$$ an **inner product**.
 
 A real vector space $$X$$ is a **normed space** if there exists a mapping $$\|\| \cdot \Vert : X \to \mathbb{R}$$ such that 
-- $$\Vert ax \Vert = |a| \; \Vertx\Vert$$ for all $$x \in X$$ and $$a \in \mathbb{R}$$
+- $$\Vert ax \Vert = |a| \; \Vert x \Vert$$ for all $$x \in X$$ and $$a \in \mathbb{R}$$
 - $$\Vert x \Vert \geq 0$$ for all $$x \in X$$ (one has equality if and only if $$x = 0$$)
-- *Triangle inequality:* $$\Vert x + y \Vert \leq \Vertx\Vert + \Verty\Vert$$ for all $$x, y \in X$$
+- *Triangle inequality:* $$\Vert x + y \Vert \leq \Vert x \Vert + \Vert y \Vert$$ for all $$x, y \in X$$
 
 This map is called the **norm** on $$X$$. Normed spaces are a more general object than inner product spaces in the sense that every inner product space is a normed space with the **induced norm**
 $$
 \begin{align*}
     \Vert \cdot \Vert \colon X &\to \mathbb{R}\\
-    x &\mapsto \Vertx\Vert = \sqrt{\langle x, x \rangle}.
+    x &\mapsto \Vert x \Vert = \sqrt{\langle x, x \rangle}.
 \end{align*}
 $$
 
@@ -33,5 +33,5 @@ The properties of the inner product immediately result in the first two conditio
 **Cauchy-Schwarz inequality**
 If $$(X, \langle \cdot, \cdot \rangle)$$ is an inner product space, then
 $$
-| \langle x, y \rangle | \leq \Vertx\Vert \; \Verty\Vert \text{ for all } x,y \in X.
+| \langle x, y \rangle | \leq \Vert x \Vert \; \Vert y \Vert \text{ for all } x,y \in X.
 $$
