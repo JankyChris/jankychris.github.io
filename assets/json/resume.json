@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Christoph Marcus Jankowsky",
-    "label": "Student",
+    "label": "",
     "image": "",
     "email": "",
     "phone": "",
@@ -41,7 +41,7 @@
       "startDate": "2019-01",
       "endDate": "2019-05",
       "summary": "Helped develop and assemble large-scale FDM printers.",
-      "highlights": ["Soldering", "Microcontroler Programming"]
+      "highlights": ["Soldering", "Microcontroller Programming"]
     },
     {
       "name": "Inopha GmbH",

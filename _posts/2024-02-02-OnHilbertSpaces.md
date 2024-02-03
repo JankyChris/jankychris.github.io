@@ -8,7 +8,7 @@ categories: math
 related_posts: false
 ---
 
-## Inner Product Spaces
+{% include figure.liquid path="assets/img/hilbert.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 A real vector space $$X$$ is an **inner product space** if there exists a mapping $$\langle \cdot, \cdot \rangle : X \times X \to \mathbb{R}$$ such that
 
@@ -93,7 +93,7 @@ _A normed space $$(X, \Vert \cdot \Vert)$$ is **complete** if all Cauchy sequenc
 
 Definition: **Banach space**
 
-_A coomplete normed space $$(X, \Vert \cdot \Vert)$$ is called a **Banach space**._
+_A complete normed space $$(X, \Vert \cdot \Vert)$$ is called a **Banach space**._
 
 Definition: **Hilbert space**
 
