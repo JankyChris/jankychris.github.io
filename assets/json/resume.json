@@ -31,7 +31,7 @@
       "startDate": "2019-11",
       "endDate": "Current",
       "summary": "Provided custom solutions for clients in the public sector.",
-      "highlights": [""]
+      "highlights": ["Git", "Software Testing", "MS Office"]
     },
     {
       "name": "3Bots 3d Engineering GmbH",
@@ -41,7 +41,7 @@
       "startDate": "2019-01",
       "endDate": "2019-05",
       "summary": "Helped develop and assemble large-scale FDM printers.",
-      "highlights": [""]
+      "highlights": ["Soldering", "Microcontroler Programming"]
     },
     {
       "name": "Inopha GmbH",
@@ -51,27 +51,27 @@
       "startDate": "2016-12",
       "endDate": "2018-12",
       "summary": "Researched potential suppliers in EU countries.",
-      "highlights": [""]
+      "highlights": ["Market Research", "MS Office"]
     }
   ],
   "education": [
     {
       "institution": "Freie Universität Berlin",
       "location": "Berlin, Germany",
-      "url": "",
+      "url": "https://www.mi.fu-berlin.de/math/",
       "area": "Mathematics",
-      "studyType": "M. Sc.",
+      "studyType": "Master of Science",
       "startDate": "2020",
       "endDate": "2024",
       "score": "",
-      "courses": ["Algebra", "Numerical Analysis", "Uncertainty Quantification snd QMC Methods", "Machine Learning for Data Science"]
+      "courses": ["Numerical Analysis", "Uncertainty Quantification snd QMC Methods", "Machine Learning for Data Science"]
     },
     {
       "institution": "Freie Universität Berlin",
       "location": "Berlin, Germany",
-      "url": "",
+      "url": "https://www.mi.fu-berlin.de/math/",
       "area": "Mathematics",
-      "studyType": "B. Sc.",
+      "studyType": "Bachelor of Science",
       "startDate": "2016",
       "endDate": "2020",
       "score": "",
@@ -80,13 +80,13 @@
     {
       "institution": "Anoka High School",
       "location": "Anoka, MN",
-      "url": "",
+      "url": "https://www.ahschools.us/ahs",
       "area": "",
       "studyType": "Study Abroad",
       "startDate": "2013",
       "endDate": "2014",
       "score": "",
-      "courses": []
+      "courses": ["Business Education Student of the Month"]
     }
   ],
   "languages": [
