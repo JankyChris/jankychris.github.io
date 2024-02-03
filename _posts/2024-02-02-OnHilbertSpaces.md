@@ -60,18 +60,17 @@ $$
 \end{align*}
 $$
 
-Where $$D$$ denotes the discriminant of the polynomial.
-If $$\exists t \in \mathbb{R}$$ with $$y = tx$$ then $$D = 0$$ and the we obtain equality. $$\square$$
+where $$D$$ denotes the discriminant of the polynomial.
+If $$\exists t \in \mathbb{R}$$ with $$y = tx$$ then $$D = 0$$ and we obtain equality. $$\square$$
 
 Now the triangle inequality is a direct consequence of the Cauchy-Schwarz inequality, as the following shows:
 
-For all $$x,y \in X$$
 $$
 \begin{align*}
     \Vert x+y \Vert^2 &= \langle x+y, x+y \rangle\\
     &= \Vert x \Vert^2 + \Vert y \Vert^2 + 2 \langle x,y \rangle\\
     &\leq \Vert x \Vert^2 + \Vert y \Vert^2 + 2 \vert \langle x,y \rangle \vert\\
     &\leq \Vert x \Vert^2 + \Vert y \Vert^2 + 2 \Vert x \Vert \Vert y \Vert\\
-    &= ( \Vert x \Vert + \Vert y \Vert)^2 
+    &= ( \Vert x \Vert + \Vert y \Vert)^2 \text{ for all } x, y \in X.
 \end{align*}
 $$
