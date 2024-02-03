@@ -58,6 +58,7 @@ $$
     D \leq 0 &\iff 4 \vert \langle x, y \rangle \vert^2 - 4 \Vert x \Vert^2 \Vert y \Vert^2 \leq 0\\
     &\iff \vert \langle x, y \rangle \vert^2 \leq \Vert x \Vert^2 \Vert y \Vert^2,
 \end{align*}
+$$
 
 Where $$D$$ denotes the discriminant of the polynomial.
 If $$\exists t \in \mathbb{R}$$ with $$y = tx$$ then $$D = 0$$ and the we obtain equality. $$\square$$
