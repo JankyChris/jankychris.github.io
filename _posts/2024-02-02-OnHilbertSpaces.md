@@ -18,6 +18,8 @@ A real vector space $$X$$ is an **inner product space** if there exists a mappin
 
 In this case we call $$\langle \cdot, \cdot \rangle$$ an **inner product**.
 
+---
+
 A real vector space $$X$$ is a **normed space** if there exists a mapping $$\Vert \cdot \Vert : X \to \mathbb{R}$$ such that
 
 - $$\Vert ax \Vert = \vert a \vert \; \Vert x \Vert$$ for all $$x \in X$$ and $$a \in \mathbb{R}$$
@@ -35,33 +37,35 @@ $$
 
 The properties of the inner product immediately result in the first two conditions on the norm. In order to show that the induced norm satisfies the triangle inequality we first prove a famous result known as the **Cauchy-Schwarz inequality**.
 
->**Cauchy-Schwarz Inequality**
->
->If $$(X, \langle \cdot, \cdot \rangle)$$ is an inner product space, then
->
->$$
->\vert \langle x, y \rangle \vert \leq \Vert x \Vert \; \Vert y \Vert \text{ for all } x,y \in X.
->$$
+Proposition: **Cauchy-Schwarz Inequality**
 
->*Proof:*
->
->Let $$x, y \in X$$ and $$a \in \mathbb{R}$$. For $$x = y = 0$$ the inequality holds trivially. Suppose $$x \neq 0 \neq y$$. Then
->
->$$
->0 \leq \langle x + ay, x + ay \rangle = \Vert x \Vert^2 + 2a \langle x,y \rangle + a^2 \Vert y \Vert^2.
->$$
->
->Observe that the right hand side of the above equation can be interpreted as a polynomial of degree 2 in $$a$$ and thus 
->
->$$
->\begin{align*}
->    D \leq 0 &\iff 4 \vert \langle x, y \rangle \vert^2 - 4 \Vert x \Vert^2 \Vert y \Vert^2 \leq 0\\
->    &\iff \vert \langle x, y \rangle \vert^2 \leq \Vert x \Vert^2 \Vert y \Vert^2,
->\end{align*}
->$$
->
->where $$D$$ denotes the discriminant of the polynomial.
->If $$\exists t \in \mathbb{R}$$ with $$y = tx$$ then $$D = 0$$ and we obtain equality. $$\square$$
+If $$(X, \langle \cdot, \cdot \rangle)$$ is an inner product space, then
+
+$$
+\vert \langle x, y \rangle \vert \leq \Vert x \Vert \; \Vert y \Vert \text{ for all } x,y \in X.
+$$
+
+*Proof:*
+
+Let $$x, y \in X$$ and $$a \in \mathbb{R}$$. For $$x = y = 0$$ the inequality holds trivially. Suppose $$x \neq 0 \neq y$$. Then
+
+$$
+0 \leq \langle x + ay, x + ay \rangle = \Vert x \Vert^2 + 2a \langle x,y \rangle + a^2 \Vert y \Vert^2.
+$$
+
+Observe that the right hand side of the above equation can be interpreted as a polynomial of degree 2 in $$a$$ and thus 
+
+$$
+\begin{align*}
+    D \leq 0 &\iff 4 \vert \langle x, y \rangle \vert^2 - 4 \Vert x \Vert^2 \Vert y \Vert^2 \leq 0\\
+    &\iff \vert \langle x, y \rangle \vert^2 \leq \Vert x \Vert^2 \Vert y \Vert^2,
+\end{align*}
+$$
+
+where $$D$$ denotes the discriminant of the polynomial.
+If $$\exists t \in \mathbb{R}$$ with $$y = tx$$ then $$D = 0$$ and we obtain equality. $$\square$$
+
+
 
 Now the triangle inequality is a direct consequence of the Cauchy-Schwarz inequality, as the following shows:
 
@@ -74,3 +78,35 @@ $$
     &= ( \Vert x \Vert + \Vert y \Vert)^2 \text{ for all } x, y \in X.
 \end{align*}
 $$
+
+---
+
+We will further restrict our space to so-called **complete** normed spaces.
+
+---
+
+Definition: **Cauchy sequence**
+
+A sequence $$(x_k)_{k=1}^\infty$$ of elements of a normed space $$(X, \Vert \cdot \Vert)$$ is called a **Cauchy sequence** if 
+
+$$
+\forall \varepsilon > 0 \exists N \in \mathbb{B} : \m, n \geq N \implies \Vert x_m - x_n \Vert < \varepsilon.
+$$
+
+---
+
+Definition: **Complete space**
+
+A normed space $$(X, \Vert \cdot \Vert)$$ is **complete** if all Cauchy sequences in $$X$$ converge to an element in $$X$$. 
+
+---
+
+Definition: **Banach space**
+
+A coomplete normed space $$(X, \Vert \cdot \Vert)$$ is called a **Banach space**.
+
+---
+
+Definition: **Hilbert space**
+
+An inner product space $$(H, \langle \cdot, \cdot \rangle)$$ which is complete w. r. t. the induced norm $$\Vert \cdot \Vert = \sqrt{\langle \cdot, \cdot \rangle}$$ is called **Hilbert space**.
